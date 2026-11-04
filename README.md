@@ -41,7 +41,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 CineSwipe is built in small slices. Each one ends with something working and deployed.
 
 ### Slice 1: Movie grid (days 1-2)
-- [ ] Create the Next.js app and deploy it to Vercel
+- [x] Create the Next.js app and deploy it to Vercel
 - [ ] Add an API route that fetches popular movies from TMDB
 - [ ] Show a grid of real posters
 
